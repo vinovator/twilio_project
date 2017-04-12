@@ -1,0 +1,5 @@
+# Ignore checkpoints created
+*.pyc
+
+# Ignore any directory named "IGNORE"
+IGNORE/
